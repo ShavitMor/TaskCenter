@@ -1,0 +1,167 @@
+2023-05-03 11:15:17,315 [1] INFO UserService - Starting
+2023-05-03 11:15:17,990 [1] INFO UserService - Loaded users data successfully
+2023-05-03 11:15:42,290 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:15:49,077 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:15:51,956 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:15:53,653 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:15:55,389 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:15:57,430 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:16:33,733 [1] INFO UserService - Starting
+2023-05-03 11:16:33,967 [1] INFO UserService - Loaded users data successfully
+2023-05-03 11:16:45,919 [1] INFO UserService - logged in user successfully
+2023-05-03 11:16:45,950 [1] INFO UserService - user mail@mail.mail boards were returned successfuly
+2023-05-03 11:16:46,091 [1] INFO BoardService - column founded successfully
+2023-05-03 11:16:46,103 [1] INFO BoardService - column founded successfully
+2023-05-03 11:16:46,104 [1] INFO BoardService - column founded successfully
+2023-05-03 11:16:46,104 [1] INFO BoardService - column founded successfully
+2023-05-03 11:16:46,105 [1] INFO BoardService - column founded successfully
+2023-05-03 11:16:46,105 [1] INFO BoardService - column founded successfully
+2023-05-03 11:17:20,856 [1] INFO UserService - Starting
+2023-05-03 11:17:21,097 [1] INFO UserService - Loaded users data successfully
+2023-05-03 11:17:43,683 [1] INFO UserService - registerd user successfully
+2023-05-03 11:17:43,687 [1] INFO UserService - User logged out successfully
+2023-05-03 11:17:46,759 [1] INFO UserService - logged in user successfully
+2023-05-03 11:17:46,778 [1] INFO UserService - user shavit@gmail.com boards were returned successfuly
+2023-05-03 11:18:44,248 [1] INFO UserService - Starting
+2023-05-03 11:18:44,469 [1] INFO UserService - Loaded users data successfully
+2023-05-03 11:18:55,079 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:18:56,903 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:18:57,925 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:18:58,997 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:19:05,154 [1] INFO UserService - registerd user successfully
+2023-05-03 11:19:05,154 [1] INFO UserService - User logged out successfully
+2023-05-03 11:19:38,942 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:19:41,509 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:19:42,406 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:19:43,933 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:19:52,694 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:19:58,406 [1] INFO UserService - registerd user successfully
+2023-05-03 11:19:58,407 [1] INFO UserService - User logged out successfully
+2023-05-03 11:20:07,444 [1] INFO UserService - registerd user successfully
+2023-05-03 11:20:07,444 [1] INFO UserService - User logged out successfully
+2023-05-03 11:20:13,102 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - already registered email
+2023-05-03 11:20:15,525 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:27:10,614 [1] INFO UserService - Starting
+2023-05-03 11:27:10,829 [1] INFO UserService - Loaded users data successfully
+2023-05-03 11:27:16,349 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:27:20,416 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - already registered email
+2023-05-03 11:27:40,888 [1] INFO UserService - Starting
+2023-05-03 11:27:41,171 [1] INFO UserService - Loaded users data successfully
+2023-05-03 11:27:46,072 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - already registered email
+2023-05-03 11:27:49,793 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-03 11:29:18,442 [1] INFO UserService - Starting
+2023-05-03 11:29:18,630 [1] INFO UserService - Loaded users data successfully
+2023-05-03 11:29:26,097 [1] INFO UserService - registerd user successfully
+2023-05-03 11:29:26,102 [1] INFO UserService - User logged out successfully
+2023-05-03 11:29:28,119 [1] INFO UserService - logged in user successfully
+2023-05-03 11:29:28,139 [1] INFO UserService - user mail11@mail.mail boards were returned successfuly
+2023-05-12 16:26:45,403 [1] INFO UserService - Starting
+2023-05-12 16:26:46,020 [1] INFO UserService - Loaded users data successfully
+2023-05-12 16:27:00,901 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-12 16:27:16,837 [1] INFO UserService - registerd user successfully
+2023-05-12 16:27:16,838 [1] INFO UserService - User logged out successfully
+2023-05-12 16:28:09,831 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - already registered email
+2023-05-12 16:28:11,282 [1] INFO UserService - logged in user successfully
+2023-05-12 16:28:11,355 [1] INFO UserService - user mai2l@mail.mail boards were returned successfuly
+2023-05-12 16:32:38,167 [1] INFO UserService - Starting
+2023-05-12 16:32:38,424 [1] INFO UserService - Loaded users data successfully
+2023-05-12 16:32:43,482 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password entered is not within the allowed lenght range
+2023-05-12 16:32:44,200 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - already registered email
+2023-05-12 16:32:49,234 [1] INFO UserService - Starting
+2023-05-12 16:32:49,452 [1] INFO UserService - Loaded users data successfully
+2023-05-12 17:02:06,580 [1] INFO UserService - Starting
+2023-05-12 17:02:06,777 [1] INFO UserService - Loaded users data successfully
+2023-05-12 17:02:42,290 [1] INFO UserService - registerd user successfully
+2023-05-12 17:02:43,665 [1] INFO UserService - User logged out successfully
+2023-05-12 17:02:47,630 [1] INFO UserService - Starting
+2023-05-12 17:02:47,927 [1] INFO UserService - Loaded users data successfully
+2023-05-12 17:03:04,848 [1] INFO UserService - registerd user successfully
+2023-05-12 17:03:04,853 [1] INFO UserService - User logged out successfully
+2023-05-12 17:03:49,194 [1] INFO UserService - Starting
+2023-05-12 17:03:49,375 [1] INFO UserService - Loaded users data successfully
+2023-05-12 17:04:11,942 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-12 17:04:49,640 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - password does not contain all that is requierd
+2023-05-12 17:04:53,959 [1] INFO UserService - registerd user successfully
+2023-05-12 17:04:53,959 [1] INFO UserService - User logged out successfully
+2023-05-12 17:04:58,368 [1] INFO UserService - logged in user successfully
+2023-05-12 17:04:58,379 [1] INFO UserService - user arbelmor@gmail.com boards were returned successfuly
+2023-05-12 17:06:13,841 [1] INFO UserService - Starting
+2023-05-12 17:06:14,032 [1] INFO UserService - Loaded users data successfully
+2023-05-12 17:06:40,244 [1] INFO UserService - logged in user successfully
+2023-05-12 17:06:40,266 [1] INFO UserService - user arbelmor@gmail.com boards were returned successfuly
+2023-05-14 08:29:54,464 [1] INFO UserService - Starting
+2023-05-14 08:58:20,182 [1] INFO UserService - Starting
+2023-05-14 08:58:20,449 [1] INFO UserService - Loaded users data successfully
+2023-05-14 08:58:39,853 [1] INFO UserService - logged in user successfully
+2023-05-14 08:58:39,921 [1] INFO UserService - user arbelMalka@gmail.com boards were returned successfuly
+2023-05-14 09:00:22,325 [1] INFO UserService - Starting
+2023-05-14 09:01:43,936 [1] INFO UserService - Starting
+2023-05-14 09:02:24,198 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:02:48,915 [1] INFO UserService - Starting
+2023-05-14 09:02:57,619 [1] INFO UserService - Starting
+2023-05-14 09:02:57,844 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:03:15,275 [1] INFO UserService - logged in user successfully
+2023-05-14 09:03:15,297 [1] INFO UserService - user arbelMalka@gmail.com boards were returned successfuly
+2023-05-14 09:04:59,808 [1] INFO UserService - Starting
+2023-05-14 09:05:00,047 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:05:16,549 [1] INFO UserService - logged in user successfully
+2023-05-14 09:05:16,571 [1] INFO UserService - user arbelMalka@gmail.com boards were returned successfuly
+2023-05-14 09:05:16,680 [1] INFO BoardService - column founded successfully
+2023-05-14 09:05:16,683 [1] INFO BoardService - column founded successfully
+2023-05-14 09:05:16,684 [1] INFO BoardService - column founded successfully
+2023-05-14 09:21:35,087 [1] INFO UserService - Starting
+2023-05-14 09:21:35,350 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:21:48,561 [1] INFO UserService - logged in user successfully
+2023-05-14 09:21:48,585 [1] INFO UserService - user arbelMalka@gmail.com boards were returned successfuly
+2023-05-14 09:21:48,685 [1] INFO BoardService - column founded successfully
+2023-05-14 09:21:48,688 [1] INFO BoardService - column founded successfully
+2023-05-14 09:21:48,688 [1] INFO BoardService - column founded successfully
+2023-05-14 09:24:36,448 [1] INFO UserService - Starting
+2023-05-14 09:24:36,941 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:24:48,502 [1] INFO UserService - logged in user successfully
+2023-05-14 09:24:48,523 [1] INFO UserService - user arbelMalka@gmail.com boards were returned successfuly
+2023-05-14 09:24:48,623 [1] INFO BoardService - column founded successfully
+2023-05-14 09:24:48,626 [1] INFO BoardService - column founded successfully
+2023-05-14 09:24:48,626 [1] INFO BoardService - column founded successfully
+2023-05-14 09:25:10,921 [1] INFO UserService - Starting
+2023-05-14 09:25:11,187 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:25:23,873 [1] INFO UserService - logged in user successfully
+2023-05-14 09:25:23,895 [1] INFO UserService - user arbelMalka@gmail.com boards were returned successfuly
+2023-05-14 09:25:23,995 [1] INFO BoardService - column founded successfully
+2023-05-14 09:25:23,998 [1] INFO BoardService - column founded successfully
+2023-05-14 09:25:23,998 [1] INFO BoardService - column founded successfully
+2023-05-14 09:26:33,286 [1] INFO UserService - Starting
+2023-05-14 09:26:33,591 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:41:22,558 [1] INFO UserService - Starting
+2023-05-14 09:41:22,795 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:41:34,264 [1] INFO UserService - logged in user successfully
+2023-05-14 09:41:34,286 [1] INFO UserService - user arbelMalka@gmail.com boards were returned successfuly
+2023-05-14 09:41:34,389 [1] INFO BoardService - column founded successfully
+2023-05-14 09:41:34,391 [1] INFO BoardService - column founded successfully
+2023-05-14 09:41:34,392 [1] INFO BoardService - column founded successfully
+2023-05-14 09:41:54,369 [1] DEBUG BoardService - Value cannot be null. (Parameter 'key')
+2023-05-14 09:42:04,753 [1] DEBUG BoardService - Value cannot be null. (Parameter 'key')
+2023-05-14 09:42:08,219 [1] DEBUG BoardService - Value cannot be null. (Parameter 'key')
+2023-05-14 09:42:47,965 [1] INFO UserService - Starting
+2023-05-14 09:42:48,190 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:42:58,173 [1] ERROR IntroSE.Kanban.Backend.BusinessLayer.UserController - user does not exist
+2023-05-14 09:44:06,641 [1] INFO UserService - Starting
+2023-05-14 09:44:06,962 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:44:14,724 [1] INFO UserService - logged in user successfully
+2023-05-14 09:44:14,744 [1] INFO UserService - user mail@mail.mail boards were returned successfuly
+2023-05-14 09:44:14,877 [1] INFO BoardService - column founded successfully
+2023-05-14 09:44:14,894 [1] INFO BoardService - column founded successfully
+2023-05-14 09:44:14,895 [1] INFO BoardService - column founded successfully
+2023-05-14 09:44:14,895 [1] INFO BoardService - column founded successfully
+2023-05-14 09:44:14,896 [1] INFO BoardService - column founded successfully
+2023-05-14 09:44:14,896 [1] INFO BoardService - column founded successfully
+2023-05-14 09:45:26,589 [1] INFO UserService - Starting
+2023-05-14 09:45:26,880 [1] INFO UserService - Loaded users data successfully
+2023-05-14 09:45:31,035 [1] INFO UserService - logged in user successfully
+2023-05-14 09:45:31,057 [1] INFO UserService - user mail@mail.mail boards were returned successfuly
+2023-05-14 09:45:31,167 [1] INFO BoardService - column founded successfully
+2023-05-14 09:45:31,180 [1] INFO BoardService - column founded successfully
+2023-05-14 09:45:31,180 [1] INFO BoardService - column founded successfully
+2023-05-14 09:45:31,181 [1] INFO BoardService - column founded successfully
+2023-05-14 09:45:31,181 [1] INFO BoardService - column founded successfully
+2023-05-14 09:45:31,182 [1] INFO BoardService - column founded successfully
