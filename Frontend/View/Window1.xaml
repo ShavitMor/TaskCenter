@@ -1,0 +1,21 @@
+﻿<Window x:Class="Frontend.View.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frontend.View"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid Margin="0,0,0,11">
+        <StackPanel Margin="0,59,0,217">
+            <Label Content="Email" Height="45" Width="46"/>
+            <Label Content="" Width="55"/>
+            <TextBox x:Name="Password" TextWrapping="Wrap" Text="{Binding Password, Mode=TwoWay}" FontFamily="Password.ttf"  Width="249" Height="20"/>
+            <Button x:Name="Login" Content="Login" Width="136" Height="39" RenderTransformOrigin="0.509,2.742" Click="Login_Click"/>
+        </StackPanel>
+        <TextBox x:Name="Email" Text="{Binding email, Mode=TwoWay}" HorizontalAlignment="Left" Margin="266,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" Height="23" />
+        <Label Content="Password" HorizontalAlignment="Left" Margin="358,110,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Register" Content="Register" HorizontalAlignment="Left" Margin="332,220,0,0" VerticalAlignment="Top" Width="132" Height="49" Click="Register_Click"/>
+
+    </Grid>
+</Window>

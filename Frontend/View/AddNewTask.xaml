@@ -1,0 +1,39 @@
+﻿<Window x:Class="Frontend.View.AddNewTask"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frontend.View"
+        mc:Ignorable="d"
+        Title="AddNewTask" Height="439" Width="258">
+    <Grid Margin="0,0,-15,-16">
+        <Button x:Name="AddTask" Content="Create Task" HorizontalAlignment="Left" Margin="152,334,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Height="35" Width="96" Click="AddTask_Click"/>
+        <TextBox x:Name="title" HorizontalAlignment="Left" Margin="32,35,0,0" TextWrapping="Wrap" Text="{Binding Title, Mode =TwoWay}" VerticalAlignment="Top" Width="190" FontSize="14" Height="23"/>
+        <TextBox x:Name="description" HorizontalAlignment="Left" Margin="32,84,0,0" TextWrapping="Wrap" Text="{Binding Description, Mode =TwoWay}" VerticalAlignment="Top" Width="190" Height="181" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Margin="32,304,0,0" TextWrapping="Wrap" Text="{Binding day, Mode =TwoWay}" VerticalAlignment="Top" Width="24" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Margin="67,304,0,0" TextWrapping="Wrap" Text="{Binding month, Mode =TwoWay}" VerticalAlignment="Top" Width="32" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Margin="111,304,0,0" TextWrapping="Wrap" Text="{Binding year, Mode =TwoWay}" VerticalAlignment="Top" Width="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Margin="168,304,0,0" TextWrapping="Wrap" Text="{Binding hour, Mode =TwoWay}" VerticalAlignment="Top" Width="27" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Margin="207,304,0,0" TextWrapping="Wrap" Text="{Binding minutes, Mode =TwoWay}" VerticalAlignment="Top" Width="32" FontSize="14"/>
+        <Label Content="/" HorizontalAlignment="Left" Margin="56,300,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label Content="/" HorizontalAlignment="Left" Margin="96,300,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label Content=":" HorizontalAlignment="Left" Margin="195,300,0,0" VerticalAlignment="Top" FontSize="14" Width="12"/>
+        <Label Content="Title:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Description:" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Due Date:" HorizontalAlignment="Left" Margin="10,276,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Button x:Name="Return" Content="" HorizontalAlignment="Left" Margin="14,347,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="34" Height="23" Click="Return_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.527"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <ImageBrush ImageSource="/View/return-icon-png-21.jpg"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

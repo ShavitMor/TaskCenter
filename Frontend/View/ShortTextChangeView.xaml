@@ -1,0 +1,20 @@
+﻿<Window x:Class="Frontend.View.ShortTextChangeView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frontend.View"
+        mc:Ignorable="d"
+        Title="ShortTextChangeView" Height="360" Width="410">
+    <Grid Margin="0,0,-9,-6">
+        <TextBox x:Name="NewDescription" HorizontalAlignment="Center" TextWrapping="Wrap" Text="{Binding Description, Mode=TwoWay}" VerticalAlignment="Top" Width="318" Height="241" Margin="0,44,0,0" FontSize="14"/>
+        <Button Content="Set" HorizontalAlignment="Left" Margin="351,290,0,0" VerticalAlignment="Top" Width="49" FontSize="14" Click="Button_Click"/>
+        <Label Content="Please enter desired description:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Button x:Name="Return" Content="" HorizontalAlignment="Left" Margin="25,290,0,0" VerticalAlignment="Top" Width="39" Click="Return_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/View/return-icon-png-21.jpg"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

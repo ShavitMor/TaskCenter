@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Backend\Backend.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+
+    <Resource Include="View\return-icon-png-21.jpg" />
+
+  </ItemGroup>
+	<ItemGroup>
+		<None Remove="View\password.ttf" />
+		<None Remove="View\return-icon-png-21.jpg" />
+	</ItemGroup>
+	<ItemGroup>
+	  <EmbeddedResource Include="View\password.ttf">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	</ItemGroup>
+
+</Project>
